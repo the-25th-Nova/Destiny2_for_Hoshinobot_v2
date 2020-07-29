@@ -7,4 +7,4 @@ A *Destiny 2* bot based on[HoshinoBot_V2](https://github.com/Ice-Cirno/HoshinoBo
 
 ## Usage
 
-## Installatiin
+## Installation
