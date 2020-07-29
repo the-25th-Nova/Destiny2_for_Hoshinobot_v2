@@ -3,6 +3,8 @@
 
 基于[HoshinoBot_V2](https://github.com/Ice-Cirno/HoshinoBot)编写的为*Destiny 2*玩家服务的BOT
 
+## 功能列表
+
 ## 使用方法
 
 ## 安装教程
