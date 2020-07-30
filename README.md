@@ -19,7 +19,7 @@
 - `git clone https://github.com/the-25th-Nova/Destiny2_for_Hoshinobot_v2`克隆本项目至Modules
 - `cd ../../config`进入configs文件夹
 - `nano __boy__.py`编辑配置文件(你也可以使用vim)
-- 在'MODULES_ON'下添加配置`'d2bot',.
+- 在`MODULES_ON`下添加配置`'d2bot',`
 - 重载`Hoshinobot`
 
 ### Windows
