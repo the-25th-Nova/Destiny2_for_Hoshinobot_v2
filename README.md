@@ -10,6 +10,7 @@
 ## 使用方法
 ### 查询老九
 >`@[BOT]老九`查询老九状态
+>`@[BOT]老九历史`查询历史出售
 
 ## 安装教程
 ### Linux
@@ -19,6 +20,7 @@
 - `cd ../config`进入config文件夹
 - `nano __boy__.py`编辑配置文件(你也可以使用vim)
 - 在`MODULES_ON`下添加配置`'Destiny2_for_Hoshinobot_v2',`
+- 在`res/img/`下建立新文件夹`destiny2`
 - 重载`Hoshinobot`
 
 ### Windows
