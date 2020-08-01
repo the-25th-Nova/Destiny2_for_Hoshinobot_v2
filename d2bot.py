@@ -2,7 +2,7 @@ import os, hoshino
 from nonebot import *
 from hoshino import Service, R
 from .findxur import *
-from .spider import *
+#from .spider import *
 from .get_item_info import *
 from datetime import datetime
 
@@ -51,12 +51,12 @@ async def search(session: CommandSession):
 	text = session.current_arg_text.strip()
 	msg = re_item(text)
 	await session.send(msg)
-
+'''
 @sv.on_command('更新D2资源',aliases=(),only_to_me=True)
 async def upres(session: CommandSession):
 	await session.send('更新中')
 	download(r_url)
-	
+	'''
 def re_item(text):
 	info = get_item(text)
 	try:
